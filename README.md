@@ -3,7 +3,7 @@
   1. 在 **Windows资源管理器** 中找到 **快速访问** 当中的 **vidomuse** ， 并点击打开
   2. 在空白处鼠标右键，然后点击 **在终端打开** 
   3. 输入命令 **npm run dev**  然后回车
-  4. 打开 Chrome 浏览器， 在浏览器的 vidomuse 标签文件夹里找到 **vidomuse - local  ![⚠️ 注意](https://img.shields.io/badge/⚠️_注意-是local不是remote-red   并点击， 此时会打开我们的网站的本地版本
+  4. 打开 Chrome 浏览器， 在浏览器的 vidomuse 标签文件夹里找到 **vidomuse - local  ![⚠️ 注意](https://img.shields.io/badge/⚠️_注意-是local不是remote-red)   并点击， 此时会打开我们的网站的本地版本
   5. 回到打开的终端， 鼠标移动到当前标签页的顶部然后鼠标右键，点击 **复制标签页**
   6. 在新打开的标签页中输入 **claude**， 这就可以打开智普大模型对话了
 
